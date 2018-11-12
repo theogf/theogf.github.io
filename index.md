@@ -28,3 +28,5 @@ Our paper "Efficient Gaussian Process Classification Using Polya-Gamma Data Augm
 - 2012-2015 : Teaching assistant for Particle Physics, General Physics @ University of Edinburgh & EPFL
 
 - 2015 : Internship in Particle Physics @ Lancaster University 
+
+*** You can find a more [complete CV here](files/CV_GalyFajou.pdf) ***
