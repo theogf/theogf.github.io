@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Theo Galy-Fajou
+## PhD Student in Machine Learning @ TU Berlin
 
-You can use the [editor on GitHub](https://github.com/theogf/theogf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## News
 
-### Markdown
+Our paper "Efficient etc" got accepted at AAAI conference 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
+- AAAI 19' ""
 
-# Header 1
-## Header 2
-### Header 3
+- AABI Workshop @ NIPS 17' ""
 
-- Bulleted
-- List
+- ECML 17' ""
 
-1. Numbered
-2. List
+- AABI Workshop @ NIPS 16' ""
+
+## Education
+
+- Current : PhD in Machine Learning under the supervision of [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/manfred_opper/forschungsgebiete/parameter/en/).
+
+- **Master of Physics** [EPFL (Ecole Polytechnique Federale de Lausanne)](https://epfl.ch/) with Minor in Computational Science and Engineering.
+
+## Work experience
+
+- Software developper in MRI development @ Siemens Healthcare in Lausanne
+
+- Teaching assistant for Particle Physics, General Physics @ University of Edinburgh & EPFL
+
+- Internship in Particle Physics @ Lancaster University 
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theogf/theogf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
