@@ -11,7 +11,7 @@ Our paper "Efficient Gaussian Process Classification Using Polya-Gamma Data Augm
 
 - AAAI 19' "Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation", F. Wenzel*, **T. Galy-Fajou* **, C. Donner, M. Kloft, M. Opper
 
-- ECML 17' ["Bayesian Nonlinear Support Vector Machines for Big Data"](ecmlpkdd2017.ijs.si/papers/paperID502.pdf), F. Wenzel, M. Deutsch, **T. Galy-Fajou**, M. Kloft
+- ECML 17' ["Bayesian Nonlinear Support Vector Machines for Big Data"](ecmlpkdd2017.ijs.si/papers/paperID502.pdf), F. Wenzel, **T. Galy-Fajou**, M. Deutsch,  M. Kloft
 
 ## Education
 
