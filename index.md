@@ -5,7 +5,9 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 ## News
 
-Our paper "Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation" got accepted at the AAAI conference 2019. 
+Recently gave a short talk at [Berlin Julia Meetup](https://julia-users-berlin.github.io/)  (join!), here are the [slides](https://docs.google.com/presentation/d/1c5DZlq0rZUyELFPgI4bl0Lw7uUAuDLTHsCE7u-jkZG0/edit?usp=sharing)  and the [notebook is here](files/presentation_julia_meetup.ipynb)
+
+Our paper "Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation" got accepted at the AAAI conference 2019!
 
 ## Publications
 
@@ -15,7 +17,7 @@ Our paper "Efficient Gaussian Process Classification Using Polya-Gamma Data Augm
 
 ## Education
 
-- Current : PhD in Machine Learning under the supervision of [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/manfred_opper/forschungsgebiete/parameter/en/).
+- Current : **PhD in Machine Learning** under the supervision of [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/manfred_opper/forschungsgebiete/parameter/en/).
 
 - 2015 : **MsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/) master thesis ([pdf here](https://cds.cern.ch/record/2130608/files/CERN-THESIS-2015-288.pdf)) at [_University of Edinburgh_](https://www.ed.ac.uk/)/[_CERN_](https://home.cern/) with Minor in Computational Science and Engineering.
 - 2012 : **BsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/)
