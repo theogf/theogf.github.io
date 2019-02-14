@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Théo Galy-Fajou
 ## PhD Student in Machine Learning @ TU Berlin
 
@@ -7,7 +11,9 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 Recently gave a short talk at [Berlin Julia Meetup](https://julia-users-berlin.github.io/)  (join!), here are the [slides](https://docs.google.com/presentation/d/1c5DZlq0rZUyELFPgI4bl0Lw7uUAuDLTHsCE7u-jkZG0/edit?usp=sharing)  and the [notebook is here](files/presentation_julia_meetup.ipynb)
 
-Our paper "Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation" got accepted at the AAAI conference 2019!
+Our paper ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383) got accepted at the AAAI conference 2019!
+
+We have a journal club to speak about Bayesian inference and Mahcine Learning papers. You can find [more informations here](journalclub)
 
 ## Publications
 

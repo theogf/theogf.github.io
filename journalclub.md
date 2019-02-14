@@ -1,4 +1,7 @@
-# Der Club der toten Bayesianer
+---
+layout: journalclub
+---
+
 
 ## Next meetings and topics
 
