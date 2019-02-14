@@ -5,9 +5,10 @@
 No meeting planned at the moment. ***Send your suggestions!***
 
 ## Suggestions
+
 | Title | Person suggesting | Date | Link |
 | Learning Invariances using the Marginal Likelihood | Theo | | [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) |
-| Gaussian Process Conditional Density Estimation | Theo | |[https://arxiv.org/abs/1810.12750](https://arxiv.org/abs/1810.12750) |
+| Gaussian Process Conditional Density Estimation | Theo | | [https://arxiv.org/abs/1810.12750](https://arxiv.org/abs/1810.12750) |
 
 For suggestions about the organisation itself [mail me](theo.galyfajou@gmail.com)
 
