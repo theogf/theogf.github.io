@@ -35,6 +35,7 @@ For suggestions about the organisation itself [mail me](theo.galyfajou@gmail.com
 -  Kim Nicoli
 
 ## Past Topics
+
 | Date | Topic | Link | Moderator |
 | --- | --- | --- | --- |
 | 14th March 201 | Variational Inference with Normalizing Flows | [https://arxiv.org/abs/1505.05770](https://arxiv.org/abs/1505.05770) | Moderator : Florian |

@@ -15,7 +15,7 @@ Recently gave a short talk at [Berlin Julia Meetup](https://julia-users-berlin.g
 
 Our paper ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383) got accepted at the AAAI conference 2019!
 
-We have a journal club to speak about Bayesian inference and Mahcine Learning papers. You can find [more informations here](journalclub)
+We have a journal club to speak about Bayesian inference and Machine Learning papers. You can find [more informations here](journalclub)
 
 ## Publications
 
