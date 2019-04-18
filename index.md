@@ -9,6 +9,8 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 ## News
 
+I have a few projects in my bag if you would be interested to make a master project with me and Pr. Opper. Check out [this page](https://www.ki.tu-berlin.de/menue/lehre/diplom_bachelor_master_und_studienarbeiten/masterarbeiten/parameter/en/) or contact me directly if you are interested
+
 Recently gave a short talk at [Berlin Julia Meetup](https://julia-users-berlin.github.io/)  (join!), here are the [slides](https://docs.google.com/presentation/d/1c5DZlq0rZUyELFPgI4bl0Lw7uUAuDLTHsCE7u-jkZG0/edit?usp=sharing)  and the [notebook is here](files/presentation_julia_meetup.ipynb)
 
 Our paper ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383) got accepted at the AAAI conference 2019!

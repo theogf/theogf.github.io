@@ -10,29 +10,33 @@ No meeting planned at the moment. ***Send your suggestions!***
 ## Suggestions
 
 | Title | Person suggesting | Date | Link |
+| --- | --- | --- | --- |
 | Learning Invariances using the Marginal Likelihood | Theo | | [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) |
 | Gaussian Process Conditional Density Estimation | Theo | | [https://arxiv.org/abs/1810.12750](https://arxiv.org/abs/1810.12750) |
 
 For suggestions about the organisation itself [mail me](theo.galyfajou@gmail.com)
 
 ## Bayesian Mitglieder
-Théo Galy-Fajou (admin)
 
-Florian Wenzel
+- Théo Galy-Fajou (admin)
 
-Dimitra Maoutsa
+- Florian Wenzel
 
-Burak Cakmak
+- Dimitra Maoutsa
 
-Christian Donner
+- Burak Cakmak
 
-Pan Kessel
+- Christian Donner
 
-Shinichi Nakajima
+- Pan Kessel
 
-Kim Nicoli
+- Shinichi Nakajima
+
+-  Kim Nicoli
 
 ## Past Topics
+| Date | Topic | Link | Moderator |
+| --- | --- | --- | --- |
 | 14th March 2018 | Variational Inference with Normalizing Flows | [https://arxiv.org/abs/1505.05770](https://arxiv.org/abs/1505.05770) | Moderator : Florian |
 | 25th April 2018 | The Generalized Reparameterization Gradient |  [https://arxiv.org/abs/1610.02287](https://arxiv.org/abs/1610.02287) | Moderator : Théo |
 | 06th June 2018 | Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm |  [https://arxiv.org/abs/1608.04471](https://arxiv.org/abs/1608.04471) | Moderator : Dimitra |
