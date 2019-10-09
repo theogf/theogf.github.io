@@ -7,6 +7,8 @@ layout: journalclub
 
 No meeting planned at the moment. ***Send your suggestions!***
 
+** To register to the mailing list follow this [link](https://groups.google.com/forum/#!forum/bayesian-journal-club-tu-berlin/join)**
+
 ## Suggestions
 
 | Title | Person suggesting | Date | Link |
@@ -14,25 +16,7 @@ No meeting planned at the moment. ***Send your suggestions!***
 | Learning Invariances using the Marginal Likelihood | Theo | | [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) |
 | Gaussian Process Conditional Density Estimation | Theo | | [https://arxiv.org/abs/1810.12750](https://arxiv.org/abs/1810.12750) |
 
-For suggestions about the organisation itself [mail me](theo.galyfajou@gmail.com)
-
-## Bayesian Mitglieder
-
-- Théo Galy-Fajou (admin)
-
-- Florian Wenzel
-
-- Dimitra Maoutsa
-
-- Burak Cakmak
-
-- Christian Donner
-
-- Pan Kessel
-
-- Shinichi Nakajima
-
--  Kim Nicoli
+For suggestions about the organisation itself [mail me](mailto:theo.galyfajou@gmail.com)
 
 ## Past Topics
 
