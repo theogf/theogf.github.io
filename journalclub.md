@@ -8,7 +8,7 @@ layout: journalclub
 The next meeting will happen the **24th of October at 15:00 in MAR 4.020**. The paper will be **Learning Invariances using the Marginal Likelihood ** [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) and the moderator will be Theo
 
 
-***Send your suggestions!***
+***You can put your suggestions and vote for papers you would like to see treated*** [in the following poll](http://www.rkursem.com/poll/admin.php?cmd=hide&id=6214d6de323f013a0&paid=0)
 
 ** To register to the mailing list follow this [link](https://groups.google.com/forum/#!forum/bayesian-journal-club-tu-berlin/join)**
 
