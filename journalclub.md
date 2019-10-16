@@ -5,7 +5,10 @@ layout: journalclub
 
 ## Next meetings and topics
 
-No meeting planned at the moment. ***Send your suggestions!***
+The next meeting will happen the **24th of October at 15:00 in MAR 4.020**. The paper will be **Learning Invariances using the Marginal Likelihood ** [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) and the moderator will be Theo
+
+
+***Send your suggestions!***
 
 ** To register to the mailing list follow this [link](https://groups.google.com/forum/#!forum/bayesian-journal-club-tu-berlin/join)**
 
@@ -13,7 +16,6 @@ No meeting planned at the moment. ***Send your suggestions!***
 
 | Title | Person suggesting | Date | Link |
 | --- | --- | --- | --- |
-| Learning Invariances using the Marginal Likelihood | Theo | | [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) |
 | Gaussian Process Conditional Density Estimation | Theo | | [https://arxiv.org/abs/1810.12750](https://arxiv.org/abs/1810.12750) |
 
 For suggestions about the organisation itself [mail me](mailto:theo.galyfajou@gmail.com)
