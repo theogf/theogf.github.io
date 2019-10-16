@@ -5,7 +5,7 @@ layout: journalclub
 
 ## Next meetings and topics
 
-The next meeting will happen the **24th of October at 15:00 in MAR 4.020**. The paper will be **Learning Invariances using the Marginal Likelihood** [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) and the moderator will be Theo
+The next meeting will happen the **31st of October at 15:00 in MAR 4.020**. The paper will be **Learning Invariances using the Marginal Likelihood** [https://arxiv.org/abs/1808.05563](https://arxiv.org/abs/1808.05563) and the moderator will be Theo
 
 
 ***You can put your suggestions and vote for papers you would like to see treated*** [in the following poll](http://www.rkursem.com/poll/admin.php?cmd=hide&id=6214d6de323f013a0&paid=0)
