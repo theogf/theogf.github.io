@@ -40,6 +40,6 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 - 2012-2015 : Teaching assistant for Particle Physics, General Physics @ University of Edinburgh & EPFL
 
-- 2015 : Internship in Particle Physics @ Lancaster University 
+- 2015 : Internship in Particle Physics @ Lancaster University
 
-*** You can find a more [complete CV here](files/CV_GalyFajou.pdf) ***
+***You can find a more [complete CV here](files/CV_GalyFajou.pdf)***
