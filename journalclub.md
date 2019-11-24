@@ -5,7 +5,7 @@ title: TU Bayesian Journal Club
 
 ## Next meetings and topics
 
-The next meeting will happen the **13th of November (Wednesday) at 15:00 in MAR 4.020**. The paper will be **Stochastic Thermodynamics of Learning** [https://arxiv.org/abs/1611.09428](https://arxiv.org/abs/1611.09428) and the moderator will be Cesar
+The next meeting will happen **CHANGE OF DATA** the **20th of November (Wednesday) at 15:00 in MAR 4.020**. The paper will be **Stochastic Thermodynamics of Learning** [https://arxiv.org/abs/1611.09428](https://arxiv.org/abs/1611.09428) and the moderator will be Cesar
 
 ***You can put your suggestions and vote for papers you would like to see treated*** [in the following poll](http://www.rkursem.com/poll/admin.php?cmd=hide&id=6214d6de323f013a0&paid=0)
 
