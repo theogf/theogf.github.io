@@ -11,7 +11,7 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 - Our paper ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670) got accepted for the UAI conference 2019, see you in Tel Aviv
 
-- I have a few projects in my bag if you would be interested to make a master project with me and Pr. Opper. Check out [this page](https://www.ki.tu-berlin.de/menue/lehre/diplom_bachelor_master_und_studienarbeiten/masterarbeiten/parameter/en/) or contact me directly if you are interested
+- I have a few projects in my bag if you would be interested to make a master project with Pr. Opper and I. Check out [this page](https://www.ki.tu-berlin.de/menue/lehre/diplom_bachelor_master_und_studienarbeiten/masterarbeiten/parameter/en/) or contact me directly if you are interested
 
 - Recently gave a short talk at [Berlin Julia Meetup](https://julia-users-berlin.github.io/)  (join!), here are the [slides](https://docs.google.com/presentation/d/1c5DZlq0rZUyELFPgI4bl0Lw7uUAuDLTHsCE7u-jkZG0/edit?usp=sharing)  and the [notebook is here](files/presentation_julia_meetup.ipynb)
 
@@ -28,7 +28,7 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 ## Education
 
-- Current : **PhD in Machine Learning** under the supervision of [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/manfred_opper/forschungsgebiete/parameter/en/).
+- Current : **PhD in Machine Learning** under the supervision of Professor [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/pr_dr_manfred_opper/forschungsgebiete/parameter/en/).
 
 - 2015 : **MsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/) master thesis ([pdf here](https://cds.cern.ch/record/2130608/files/CERN-THESIS-2015-288.pdf)) at [_University of Edinburgh_](https://www.ed.ac.uk/)/[_CERN_](https://home.cern/) with Minor in Computational Science and Engineering.
 - 2012 : **BsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/)
