@@ -9,6 +9,8 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 ## News
 
+- Our paper ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451) got accepted at the AISTATS 2020 conference, check it out! Here is a [short explaining Twitter thread](https://twitter.com/theo_gf/status/1233082060430020609). 
+
 - Our paper ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670) got accepted for the UAI conference 2019, see you in Tel Aviv
 
 - I have a few projects in my bag if you would be interested to make a master project with Pr. Opper and I. Check out [this page](https://www.ki.tu-berlin.de/menue/lehre/diplom_bachelor_master_und_studienarbeiten/masterarbeiten/parameter/en/) or contact me directly if you are interested
