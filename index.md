@@ -22,7 +22,7 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 - We have a journal club to speak about Bayesian inference and Machine Learning papers. You can find [more informations here](journalclub)
 
 ## Publications
-- AISTATS 20' ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"]((https://arxiv.org/abs/2002.11451), **T. Galy-Fajou**, F. Wenzel, M. Opper
+- AISTATS 20' ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451), **T. Galy-Fajou**, F. Wenzel, M. Opper
 
 - UAI 19' ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670), **T. Galy-Fajou**, F. Wenzel, C. Donner, M. Kloft, M. Opper
 
