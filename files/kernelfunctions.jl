@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.10.6
+# v0.11.0
 
 using Markdown
 using InteractiveUtils
@@ -13,11 +13,32 @@ macro bind(def, element)
     end
 end
 
-# ╔═╡ db2904fe-c378-11ea-27a8-dd467b0c4f60
-using KernelFunctions
+# ╔═╡ 6a90be82-d197-11ea-22fc-33735395497c
+md"# KernelFunctions.jl
 
-# ╔═╡ 26b45326-c379-11ea-3402-0d45587c6478
-begin 
+Let's start by getting our dependencies ready. If you haven't used these packages before, it might take a couple of minutes."
+
+# ╔═╡ 41860fe0-c6ae-11ea-23da-e95e5c19a897
+
+
+# ╔═╡ c9289304-c6aa-11ea-22a9-3563c3211a0e
+
+
+# ╔═╡ ebb64e1a-d196-11ea-36c1-71e4fc0f64fb
+begin
+	let
+		# create a temporary environment
+		env = mktempdir()
+		import Pkg
+		Pkg.update()
+		# activate it
+		Pkg.activate(env)
+		# add our favourite packages
+		Pkg.add.(["KernelFunctions", "Plots", "Distributions", "PlutoUI"])
+	end
+	
+	using KernelFunctions
+	
 	using Plots; default(lw = 3.0)
 	using Distributions
 	using LinearAlgebra
@@ -59,9 +80,6 @@ plot([x_train, x_test], [y_train, f_target.(x_test)], lab = ["data" "true_functi
 # ╔═╡ ffe99cf4-c37a-11ea-2f78-691c0ffa92b0
 ŷ = kernelmatrix(k, x_test, x_train) * inv(kernelmatrix(k, x_train) + exp(λ) * I) * y_train
 
-# ╔═╡ 41860fe0-c6ae-11ea-23da-e95e5c19a897
-
-
 # ╔═╡ 351f751a-c37b-11ea-1a6c-b162eeb49e60
 begin
 	p1 = scatter(x_train, y_train, lab = "data")
@@ -71,12 +89,9 @@ begin
 	plot(p1, p2)
 end
 
-# ╔═╡ c9289304-c6aa-11ea-22a9-3563c3211a0e
-
-
 # ╔═╡ Cell order:
-# ╠═db2904fe-c378-11ea-27a8-dd467b0c4f60
-# ╠═26b45326-c379-11ea-3402-0d45587c6478
+# ╟─6a90be82-d197-11ea-22fc-33735395497c
+# ╠═ebb64e1a-d196-11ea-36c1-71e4fc0f64fb
 # ╠═c582a514-c385-11ea-3817-6b416c7ff706
 # ╠═2a15b832-c379-11ea-07d3-793fca0d73f8
 # ╠═447a057c-c379-11ea-1204-f79bece7ab8f
