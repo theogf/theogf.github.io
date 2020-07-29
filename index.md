@@ -9,6 +9,9 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 ## News
 
+- I started a new blog called ["Bayesian Tribulations"](./bayesiantribulations), it's very experimental at the moment but if you want have a look! I used [Franklin.jl](https://github.com/tlienart/Franklin.jl) to generate it!
+- My paper ["Adaptive Inducing Point Selection for Gaussian Processes"](https://drive.google.com/file/d/1IPTUBfY_b2WElTWBIVU4lrbHcXnbTWdB/view?usp=sharing) has been accepted for the Continual Learning Workshop of ICML 2020. You can check this [introduction video](https://youtu.be/aR_viPWNv1U) for more info. Note that this is still a work in progress!
+
 - Our paper ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451) got accepted at the AISTATS 2020 conference, check it out! Here is a [short explaining Twitter thread](https://twitter.com/theo_gf/status/1233082060430020609). 
 
 - Our paper ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670) got accepted for the UAI conference 2019, see you in Tel Aviv
