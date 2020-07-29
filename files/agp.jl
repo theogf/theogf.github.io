@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.10.6
+# v0.11.0
 
 using Markdown
 using InteractiveUtils
@@ -13,14 +13,38 @@ macro bind(def, element)
     end
 end
 
+# ╔═╡ 4aa7119a-d197-11ea-3bb5-07c3e33cb266
+md"# AugmentedGaussianProcesses.jl
+
+Let's start by getting our dependencies ready. If you haven't used these packages before, it might take a couple of minutes."
+
 # ╔═╡ 052533ec-c4ff-11ea-3cd2-57de775ca6da
-using AugmentedGaussianProcesses # Automatically export AGP as a shortcut
+
 
 # ╔═╡ 3814e536-c4ff-11ea-2b48-2be4a912ba6d
-using Plots, Distributions, PlutoUI # Some needed libraries
+
 
 # ╔═╡ 2deacd82-c501-11ea-3620-11853f9dd4ce
-pyplot(); default(legend = false, lw = 3.0)
+
+
+# ╔═╡ f716fac0-d196-11ea-253a-a94c75ec77b5
+begin
+	let
+		# create a temporary environment
+		env = mktempdir()
+		import Pkg
+		Pkg.update()
+		# activate it
+		Pkg.activate(env)
+		# add our favourite packages
+		Pkg.add.(["AugmentedGaussianProcesses", "Plots", "Distributions", "PlutoUI"])
+	end
+	
+	using AugmentedGaussianProcesses # Automatically export AGP as a shortcut
+	
+	using Plots, Distributions, PlutoUI # Some needed libraries
+	default(legend = false, lw = 3.0)
+end
 
 # ╔═╡ 2b26b41a-c6b4-11ea-10e6-8d44d5bcc9ec
 logistic(x) = AGP.logistic.(x)
@@ -92,6 +116,8 @@ begin
 end
 
 # ╔═╡ Cell order:
+# ╟─4aa7119a-d197-11ea-3bb5-07c3e33cb266
+# ╠═f716fac0-d196-11ea-253a-a94c75ec77b5
 # ╠═052533ec-c4ff-11ea-3cd2-57de775ca6da
 # ╠═3814e536-c4ff-11ea-2b48-2be4a912ba6d
 # ╠═2deacd82-c501-11ea-3620-11853f9dd4ce
