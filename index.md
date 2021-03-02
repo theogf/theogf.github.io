@@ -34,6 +34,15 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 - ECML 17' ["Bayesian Nonlinear Support Vector Machines for Big Data"](http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf), F. Wenzel, **T. Galy-Fajou**, M. Deutsch,  M. Kloft
 
+## Open Source Projects
+- [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl), package for working with Gaussian Processes and the augmentation developed in all the publications.
+- [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl), kernel functions for machine learning in Julia.
+- [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl), basic implementation for GPs in Julia with an emphasis on probabilistic programming.
+- [Turkie.jl](https://github.com/theogf/Turkie.jl), live visualizaiton of sampling statistics with Turing.jl and Makie.jl.
+- [AdvancedVI.jl](https://github.com/TuringLang/AdvancedVI.jl), Variational Inference package for Julia.
+- [BayesianQuadrature.jl](https://github.com/theogf/BayesianQuadrature.jl), different Bayesian quadrature methods.
+- [ThermodynamicIntegration.jl](https://github.com/theogf/ThermodynamicIntegration.jl), thermodynamic integration with support for Turing models.
+
 ## Education
 
 - Current : **PhD in Machine Learning** under the supervision of Professor [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/pr_dr_manfred_opper/forschungsgebiete/parameter/en/).
