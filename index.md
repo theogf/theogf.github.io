@@ -9,6 +9,7 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 ## News
 
+- Two papers were accepted for the [AABI Symposium](http://approximateinference.org/): [Gaussian Density Parametrization Flow: Particle and Stochastic Approaches](https://openreview.net/forum?id=LclKtSfmf9I) with Valerio Perrone and Manfred Opper and [Evidence Estimation by Kullback-Leibler Integration for Flow-Based Methods](https://openreview.net/forum?id=LclKtSfmf9I) with Nikolai Zaki and Manfred Opper.
 - [JuliaCon 2020](https://live.juliacon.org/) is happening this week and here are the two talks I have given about my ongoing work on [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) [(presentation here)](https://live.juliacon.org/talk/YY9QEJ) and [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl) [(presentation here)](https://live.juliacon.org/talk/CE7FZA).
 - I started a new blog called ["Bayesian Tribulations"](./bayesiantribulations), it's very experimental at the moment but if you want have a look! I used [Franklin.jl](https://github.com/tlienart/Franklin.jl) to generate it!
 - My paper ["Adaptive Inducing Point Selection for Gaussian Processes"](https://drive.google.com/file/d/1IPTUBfY_b2WElTWBIVU4lrbHcXnbTWdB/view?usp=sharing) has been accepted for the Continual Learning Workshop of ICML 2020. You can check this [introduction video](https://youtu.be/aR_viPWNv1U) for more info. Note that this is still a work in progress!
