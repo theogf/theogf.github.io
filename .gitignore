@@ -1,2 +1,5 @@
-
-\.Rhistory
+__site/
+.DS_Store
+franklin
+franklin.pub
+node_modules/
