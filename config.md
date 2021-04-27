@@ -23,3 +23,12 @@ Add here global latex commands to use throughout your pages.
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\package}[3]{
+~~~
+
+<div class="corner">
+<h3><a class="franklin-content" href=#2>#1</a></h3>
+#3
+</div>
+~~~
+}
