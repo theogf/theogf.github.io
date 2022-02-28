@@ -31,16 +31,16 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 - Entropy Journal 21' ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990), **T. Galy-Fajou**, V. Perrone, M. Opper
 - AISTATS 20' ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451), **T. Galy-Fajou**, F. Wenzel, M. Opper
-- UAI 19' ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670), **T. Galy-Fajou**, F. Wenzel, C. Donner, M. Kloft, M. Opper
+- UAI 19' ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670), **T. Galy-Fajou**, F. Wenzel, C. Donner, M. Opper
 - AAAI 19' ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383), F. Wenzel*, **T. Galy-Fajou***, C. Donner, M. Kloft, M. Opper
 - ECML 17' ["Bayesian Nonlinear Support Vector Machines for Big Data"](http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf), F. Wenzel, **T. Galy-Fajou**, M. Deutsch,  M. Kloft
 
 ## Open Source Projects
 - [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl), package for working with Gaussian Processes and the augmentation developed in all the publications.
+- [AugmentedGPLikelihoods.jl](https://github.com/JuliaGaussianProcesses/AugmentedGPLikelihoods.jl), package interfacing the work in AugmentedGaussianProcesses.jl and the JuliaGP ecosystem.
 - [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl), kernel functions for machine learning in Julia.
 - [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl), basic implementation for GPs in Julia with an emphasis on probabilistic programming.
 - [Turkie.jl](https://github.com/theogf/Turkie.jl), live visualizaiton of sampling statistics with Turing.jl and Makie.jl.
-- [AdvancedVI.jl](https://github.com/TuringLang/AdvancedVI.jl), Variational Inference package for Julia.
 - [BayesianQuadrature.jl](https://github.com/theogf/BayesianQuadrature.jl), different Bayesian quadrature methods.
 - [ThermodynamicIntegration.jl](https://github.com/theogf/ThermodynamicIntegration.jl), thermodynamic integration with support for Turing models.
 
