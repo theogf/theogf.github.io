@@ -12,24 +12,20 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 - A new paper got accepted at the [Entropy journal](https://www.mdpi.com/journal/entropy)! Check out ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990) with Valerio Perrone and Manfred Opper.
 - I gave a short poster presentation on my work on [Turkie.jl](https://github.com/theogf/Turkie.jl) for [JuliaCon 2021](https://juliacon.org/2021/), you can find the [video here](https://www.youtube.com/watch?v=Tu9GRus7-FM).
 - I gave a talk at the Cambridge Machine Learning Reading Group and it's been recorded, check it out on here on [Youtube](https://www.youtube.com/watch?v=PtQGSFyzi6A)
-
 - Two papers were accepted for the [AABI Symposium](http://approximateinference.org/): [Gaussian Density Parametrization Flow: Particle and Stochastic Approaches](https://openreview.net/forum?id=LclKtSfmf9I) with Valerio Perrone and Manfred Opper and [Evidence Estimation by Kullback-Leibler Integration for Flow-Based Methods](https://openreview.net/forum?id=LclKtSfmf9I) with Nikolai Zaki and Manfred Opper.
 - [JuliaCon 2020](https://live.juliacon.org/) is happening this week and here are the two talks I have given about my ongoing work on [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) [(presentation here)](https://live.juliacon.org/talk/YY9QEJ) and [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl) [(presentation here)](https://live.juliacon.org/talk/CE7FZA).
 - I started a new blog called ["Bayesian Tribulations"](./bayesiantribulations), it's very experimental at the moment but if you want have a look! I used [Franklin.jl](https://github.com/tlienart/Franklin.jl) to generate it!
-- My paper ["Adaptive Inducing Point Selection for Gaussian Processes"](https://drive.google.com/file/d/1IPTUBfY_b2WElTWBIVU4lrbHcXnbTWdB/view?usp=sharing) has been accepted for the Continual Learning Workshop of ICML 2020. You can check this [introduction video](https://youtu.be/aR_viPWNv1U) for more info. Note that this is still a work in progress!
+- My paper ["Adaptive Inducing Point Selection for Gaussian Processes"](https://arxiv.org/abs/2107.10066) has been accepted for the Continual Learning Workshop of ICML 2020. You can check this [introduction video](https://youtu.be/aR_viPWNv1U) for more info. Note that this is still a work in progress!
 - Our paper ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451) got accepted at the AISTATS 2020 conference, check it out! Here is a [short explaining Twitter thread](https://twitter.com/theo_gf/status/1233082060430020609). 
-
 - Our paper ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670) got accepted for the UAI conference 2019, see you in Tel Aviv
-
 - Recently gave a short talk at [Berlin Julia Meetup](https://julia-users-berlin.github.io/)  (join!), here are the [slides](https://docs.google.com/presentation/d/1c5DZlq0rZUyELFPgI4bl0Lw7uUAuDLTHsCE7u-jkZG0/edit?usp=sharing)  and the [notebook is here](files/presentation_julia_meetup.ipynb)
-
 - Our paper ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383) got accepted at the AAAI conference 2019!
-
 - We have a journal club to speak about Bayesian inference and Machine Learning papers. You can find [more informations here](journalclub)
 
 ## Publications
 
 - Entropy Journal 21' ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990), **T. Galy-Fajou**, V. Perrone, M. Opper
+- ArXiv 21' ["Adaptive Inducing Points Selection For Gaussian Processes"](https://arxiv.org/abs/2107.10066), **T. Galy-Fajou**, M. Opper
 - AISTATS 20' ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451), **T. Galy-Fajou**, F. Wenzel, M. Opper
 - UAI 19' ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670), **T. Galy-Fajou**, F. Wenzel, C. Donner, M. Opper
 - AAAI 19' ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383), F. Wenzel*, **T. Galy-Fajou***, C. Donner, M. Kloft, M. Opper
