@@ -2,13 +2,15 @@
 layout: default
 ---
 
-# Théo Galy-Fajou
-## PhD Student in Machine Learning @ TU Berlin
+# Dr. Théo Galy-Fajou
+## Freelancer in Bayesian methods and Julia software development, PlantingSpace team member
 
 Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia programming.
 
 ## News
 
+- I finally defended my thesis on the 07th of July! I will upload the final version of the thesis soon 
+- I joined the [PlantingSpace](planting.space) team in April as Julia software developer and Bayesian researcher!
 - A new paper got accepted at the [Entropy journal](https://www.mdpi.com/journal/entropy)! Check out ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990) with Valerio Perrone and Manfred Opper.
 - I gave a short poster presentation on my work on [Turkie.jl](https://github.com/theogf/Turkie.jl) for [JuliaCon 2021](https://juliacon.org/2021/), you can find the [video here](https://www.youtube.com/watch?v=Tu9GRus7-FM).
 - I gave a talk at the Cambridge Machine Learning Reading Group and it's been recorded, check it out on here on [Youtube](https://www.youtube.com/watch?v=PtQGSFyzi6A)
@@ -31,7 +33,7 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 - AAAI 19' ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383), F. Wenzel*, **T. Galy-Fajou***, C. Donner, M. Kloft, M. Opper
 - ECML 17' ["Bayesian Nonlinear Support Vector Machines for Big Data"](http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf), F. Wenzel, **T. Galy-Fajou**, M. Deutsch,  M. Kloft
 
-## Open Source Projects
+## Notable Open Source Projects
 - [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl), package for working with Gaussian Processes and the augmentation developed in all the publications.
 - [AugmentedGPLikelihoods.jl](https://github.com/JuliaGaussianProcesses/AugmentedGPLikelihoods.jl), package interfacing the work in AugmentedGaussianProcesses.jl and the JuliaGP ecosystem.
 - [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl), kernel functions for machine learning in Julia.
@@ -42,7 +44,7 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 
 ## Education
 
-- Current : **PhD in Machine Learning** under the supervision of Professor [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/pr_dr_manfred_opper/forschungsgebiete/parameter/en/).
+- 2022 : **PhD in Machine Learning** under the supervision of Professor [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/pr_dr_manfred_opper/forschungsgebiete/parameter/en/) (pdf to be uploaded soon).
 
 - 2015 : **MsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/) master thesis ([pdf here](https://cds.cern.ch/record/2130608/files/CERN-THESIS-2015-288.pdf)) at [_University of Edinburgh_](https://www.ed.ac.uk/)/[_CERN_](https://home.cern/) with Minor in Computational Science and Engineering.
 - 2012 : **BsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/)
