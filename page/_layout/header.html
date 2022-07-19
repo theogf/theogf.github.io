@@ -1,11 +1,11 @@
-<header class="text-white text-center">
+<header class="text-center">
   {{if use_hero}}
     <div class="jumbotron container bg-primary">
   {{else}}
     <div class="jumbotron jumbotron-fluid container-fluid bg-primary">
   {{end}}
-    <h1>{{title}}</h1>
-    <div class="lead">{{description}}</div>
+    <h1 class="half-transparent-background">{{title}}</h1>
+    <div class="lead half-transparent-background">{{description}}</div>
     {{if add_github_view}}
       <a class="github-button" href="https://github.com/{{github_repo}}" data-size="large" aria-label="View {{title}} on GitHub">View on GitHub</a>
     {{end}}

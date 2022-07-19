@@ -21,7 +21,7 @@ The latter allows you to plug in values that you would have defined here.
            @def title       = "Dr. Théo Galy-Fajou"
            @def prepath     = ""
            @def description = """
-                   Personal webpage of Dr. Théo Galy-Fajou
+                   Freelancer in Bayes workflow and Julia software development
                    """
            @def authors     = "Théo Galy-Fajou"
 
@@ -38,7 +38,7 @@ The latter allows you to plug in values that you would have defined here.
 @def docs_url  = "https://theogf.dev"
 @def docs_name = "Docs"
 
-@def add_nav_logo   = true
+@def add_nav_logo   = false
 @def nav_logo_path  = "/assets/logo.svg"
 @def nav_logo_alt   = "Logo"
 @def nav_logo_style = """
@@ -75,7 +75,7 @@ The latter allows you to plug in values that you would have defined here.
 -->
 @def use_header         = true
 @def use_header_img     = true
-@def header_img_path    = "url(\"assets/diagonal-lines.svg\")"
+@def header_img_path    = "url(\"assets/dithered_anim.gif\")"
 @def header_img_style   = """
                           background-repeat: repeat;
                           """
@@ -96,10 +96,11 @@ NOTE:
                     you can also set it for individual sections by specifying
                     the width argument: `\begin{:section, ..., width=10}`.
                   -->
-                  @def section_width = 15
+                  @def section_width = 10
 
 <!-- COLOR PALETTE
 You can use Hex, RGB or SVG color names; these tools are useful to choose:
+
   - color wheel: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
   - color names: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 

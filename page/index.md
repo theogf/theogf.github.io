@@ -1,10 +1,9 @@
-## Freelancer in Bayesian methods and Julia software development, PlantingSpace team member
-
-Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia programming.
-
 \begin{section}{title="Bio"}
 
-Théo Galy-Fajou is a doctor in Machine Learning specialized in Bayesian inference methods.
+Théo Galy-Fajou is a doctor in Machine Learning specialized in [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) methods.
+He is particularly interested in approximate Bayesian inference methods like sampling, applications to Gaussian processes and online learning.
+Throughout his Ph.D., Théo developed numerous [open source projects](#open_source_projects) in [Julia](https://julialang.org) and dived deep into software development.
+He is currently working as a freelancer, in particular with [PlantingSpace](https://planting.space).
 
 \end{section}
 
@@ -14,10 +13,10 @@ Théo Galy-Fajou is a doctor in Machine Learning specialized in Bayesian inferen
 
 - I finally defended my thesis on the 07th of July! I will upload the final version of the thesis soon 
 - I joined the [PlantingSpace](planting.space) team in April as Julia software developer and Bayesian researcher!
-- A new paper got accepted at the [Entropy journal](https://www.mdpi.com/journal/entropy)! Check out ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990) with Valerio Perrone and Manfred Opper.
+- A new paper got accepted at the [Entropy journal](https://www.mdpi.com/journal/entropy)! Check out ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990) with [Valerio Perrone](https://sites.google.com/view/valerioperrone/) and Manfred Opper.
 - I gave a short poster presentation on my work on [Turkie.jl](https://github.com/theogf/Turkie.jl) for [JuliaCon 2021](https://juliacon.org/2021/), you can find the [video here](https://www.youtube.com/watch?v=Tu9GRus7-FM).
 - I gave a talk at the Cambridge Machine Learning Reading Group and it's been recorded, check it out on here on [Youtube](https://www.youtube.com/watch?v=PtQGSFyzi6A)
-- Two papers were accepted for the [AABI Symposium](http://approximateinference.org/): [Gaussian Density Parametrization Flow: Particle and Stochastic Approaches](https://openreview.net/forum?id=LclKtSfmf9I) with Valerio Perrone and Manfred Opper and [Evidence Estimation by Kullback-Leibler Integration for Flow-Based Methods](https://openreview.net/forum?id=LclKtSfmf9I) with Nikolai Zaki and Manfred Opper.
+- Two papers were accepted for the [AABI Symposium](http://approximateinference.org/): [Gaussian Density Parametrization Flow: Particle and Stochastic Approaches](https://openreview.net/forum?id=LclKtSfmf9I) with [Valerio Perrone](https://sites.google.com/view/valerioperrone/) and Manfred Opper and [Evidence Estimation by Kullback-Leibler Integration for Flow-Based Methods](https://openreview.net/forum?id=LclKtSfmf9I) with [Nikolai Zaki](https://www.sfb1294.de/nikolai-zaki) and Manfred Opper.
 - [JuliaCon 2020](https://live.juliacon.org/) is happening this week and here are the two talks I have given about my ongoing work on [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl) [(presentation here)](https://live.juliacon.org/talk/YY9QEJ) and [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl) [(presentation here)](https://live.juliacon.org/talk/CE7FZA).
 - I started a new blog called ["Bayesian Tribulations"](./bayesiantribulations), it's very experimental at the moment but if you want have a look! I used [Franklin.jl](https://github.com/tlienart/Franklin.jl) to generate it!
 - My paper ["Adaptive Inducing Point Selection for Gaussian Processes"](https://arxiv.org/abs/2107.10066) has been accepted for the Continual Learning Workshop of ICML 2020. You can check this [introduction video](https://youtu.be/aR_viPWNv1U) for more info. Note that this is still a work in progress!
@@ -46,7 +45,7 @@ Théo Galy-Fajou is a doctor in Machine Learning specialized in Bayesian inferen
 - [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl), package for working with Gaussian Processes and the augmentation developed in all the publications.
 - [AugmentedGPLikelihoods.jl](https://github.com/JuliaGaussianProcesses/AugmentedGPLikelihoods.jl), package interfacing the work in AugmentedGaussianProcesses.jl and the JuliaGP ecosystem.
 - [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl), kernel functions for machine learning in Julia.
-- [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl), basic implementation for GPs in Julia with an emphasis on probabilistic programming.
+- [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl), basic implementation for Gaussian Processes in Julia with an emphasis on probabilistic programming.
 - [Turkie.jl](https://github.com/theogf/Turkie.jl), live visualizaiton of sampling statistics with Turing.jl and Makie.jl.
 - [BayesianQuadrature.jl](https://github.com/theogf/BayesianQuadrature.jl), different Bayesian quadrature methods.
 - [ThermodynamicIntegration.jl](https://github.com/theogf/ThermodynamicIntegration.jl), thermodynamic integration with support for Turing models.
