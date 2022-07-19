@@ -10,7 +10,7 @@ Interest in Gaussian Processes, Bayesian Inference, Online Learning and Julia pr
 ## News
 
 - I finally defended my thesis on the 07th of July! I will upload the final version of the thesis soon 
-- I joined the [PlantingSpace](planting.space) team in April as Julia software developer and Bayesian researcher!
+- I joined the [PlantingSpace](https://planting.space) team in April as Julia software developer and Bayesian researcher!
 - A new paper got accepted at the [Entropy journal](https://www.mdpi.com/journal/entropy)! Check out ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990) with Valerio Perrone and Manfred Opper.
 - I gave a short poster presentation on my work on [Turkie.jl](https://github.com/theogf/Turkie.jl) for [JuliaCon 2021](https://juliacon.org/2021/), you can find the [video here](https://www.youtube.com/watch?v=Tu9GRus7-FM).
 - I gave a talk at the Cambridge Machine Learning Reading Group and it's been recorded, check it out on here on [Youtube](https://www.youtube.com/watch?v=PtQGSFyzi6A)
