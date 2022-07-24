@@ -67,7 +67,7 @@ pre code.hljs.plaintext {
 
 .publi {
   width: 100%;
-  border: 5px;
+  border: 3px;
   border-radius: 5px;
   padding: 5px;
   border-style: solid;
@@ -91,6 +91,8 @@ pre code.hljs.plaintext {
 
 .publi-img {
   width: 400px;
+  max-height: 200px;
+  margin: 10px;
 }
 
 .publi-abstract {

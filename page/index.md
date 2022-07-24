@@ -30,11 +30,16 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 
 \begin{section}{title="Publications"}
 
-\publication{Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation}{https://www.mdpi.com/1099-4300/23/8/990}{Entropy Journal 21'}{https://www.mdpi.com/journal/entropy}{<b>T. Galy-Fajou</b>, V. Perrone, M. Opper}{"assets/frontpage.png"}{Small abstract about the paper}
-\publication{Adaptive Inducing Points Selection For Gaussian Processes}{https://arxiv.org/abs/2107.10066}{Workshop Continual Learning ICML 21'}{}{<b>T. Galy-Fajou</b>, M. Opper}{}{}
-\publication{Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models}{https://arxiv.org/abs/2002.11451}{AISTATS 20'}{}{<b>T. Galy-Fajou</b>, F. Wenzel, M. Opper}{}{}
+\publication{Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation}{https://www.mdpi.com/1099-4300/23/8/990}{Entropy Journal 21'}{https://www.mdpi.com/journal/entropy}{<b>T. Galy-Fajou</b>, V. Perrone, M. Opper}{"assets/front_gpf.png"}{Small abstract about the paper}
+
+\publication{Adaptive Inducing Points Selection For Gaussian Processes}{https://arxiv.org/abs/2107.10066}{Continual Learning Workshop ICML 20'}{https://sites.google.com/view/cl-icml/}{<b>T. Galy-Fajou</b>, M. Opper}{"assets/front_online.png"}{}
+
+\publication{Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models}{https://arxiv.org/abs/2002.11451}{AISTATS 20'}{https://aistats.org/aistats2020/}{<b>T. Galy-Fajou</b>, F. Wenzel, M. Opper}{"assets/front_augmentation.png"}{}
+
 \publication{Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation}{https://arxiv.org/abs/1905.09670}{UAI 19'}{}{<b>T. Galy-Fajou</b>, F. Wenzel, C. Donner, M. Opper}{}{}
+
 \publication{Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation}{https://arxiv.org/abs/1802.06383}{AAAI 19'}{}{F. Wenzel* <b>T. Galy-Fajou</b>*, C. Donner, M. Kloft, M. Opper}{}{}
+
 \publication{Bayesian Nonlinear Support Vector Machines for Big Data}{http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf}{ECML 17'}{}{F. Wenzel, <b>T. Galy-Fajou</b>, M. Deutsch,  M. Kloft}{}{}
 
 
@@ -57,17 +62,17 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 - 2022 : **PhD in Machine Learning** under the supervision of Professor [_Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/pr_dr_manfred_opper/forschungsgebiete/parameter/en/) (pdf to be uploaded soon).
 - 2015 : **MsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/) master thesis ([pdf here](https://cds.cern.ch/record/2130608/files/CERN-THESIS-2015-288.pdf)) at [_University of Edinburgh_](https://www.ed.ac.uk/)/[_CERN_](https://home.cern/) with Minor in Computational Science and Engineering.
 - 2012 : **BsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/)
-
+- 2009 : **Baccalauréat**
 \end{section}
 
 \begin{section}{title="Work experience"}
 
-- 2017-2022: Research Assistant @ Technische Universität Berlin
-- 2016-2017 : Research intern @ Humboldt University of Berlin
-- 2015-2016 : C++ Software developper in MRI development @ Siemens Healthcare in Lausanne
-- 2012-2015 : Teaching assistant for Particle Physics, General Physics @ University of Edinburgh & EPFL
-- 2015 : Internship in Particle Physics @ Lancaster University
+- 2017-2022: Research Assistant @ [Technische Universität Berlin](https://tu.berlin)
+- 2016-2017 : Research intern @ [Humboldt University of Berlin](https://www.hu-berlin.de/en)
+- 2015-2016 : C++ Software developper in MRI development @ [Siemens Healthcare in Lausanne](https://www.siemens-healthineers.com/de-ch)
+- 2012-2015 : Teaching assistant for Particle Physics, General Physics @ [University of Edinburgh](https://www.ed.ac.uk/) & [EPFL](https://www.epfl.ch/en/)
+- 2015 : Internship in Particle Physics @ [Lancaster University](https://www.lancaster.ac.uk/)
 
-***You can find a more [complete CV here](files/CV_GalyFajou.pdf)***
+**You can find a more [complete CV here](files/CV_GalyFajou.pdf)**
 
 \end{section}

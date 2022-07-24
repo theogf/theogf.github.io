@@ -159,9 +159,9 @@ commands that are defined and used in PkgPage.jl
 
 
 \newcommand{\publication}[7]{~~~
-  <div class="publi">
+  <div class="publi" {{ publi publi_counter}}>
   <div class="publi-header">
-    <h5><a href=#2>#1</a></h5>
+    <h5><b><a href=#2>#1</a></b></h5>
     <a href=#4><b>#3</b></a>,
     #5.
     </div>
