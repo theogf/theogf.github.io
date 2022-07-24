@@ -108,3 +108,13 @@ a {
 a:hover {
   color: var(--mygreen);
 }
+
+.profile-photo{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px 20px white inset;
+  background-image: url("../assets/dithered_profile.png");
+  background-position: center;
+}
