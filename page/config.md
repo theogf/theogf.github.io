@@ -155,23 +155,26 @@ commands that are defined and used in PkgPage.jl
 
 \newenvironment{columns}{\html{<div class="container"><div class="row">}}{\html{</div></div>}}
 
-\newcommand{\publication}[7]{
-  \html{<div class="publi">
+@def publi_counter = 1
+
+
+\newcommand{\publication}[7]{~~~
+  <div class="publi">
   <div class="publi-header">
-    <h4><a href=#2>#1</a></h4>
+    <h5><a href=#2>#1</a></h5>
     <a href=#4><b>#3</b></a>,
-    #5
+    #5.
     </div>
   <div class="publi-content">
   <div style="display: table-row">
     <div class="publi-thumbnail">
-    <img style="publi-img" src=#6> 
+    <img class="publi-img" src=#6> 
     </div>
-    <div class="publi-abstract">
+    <div class="publi-abstract"> 
     #7
     </div>
     </div>
     </div>
-    </div>}
-
+    </div>
+~~~
 }

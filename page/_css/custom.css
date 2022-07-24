@@ -8,6 +8,7 @@ section { padding: 75px 0; }
   --myyellow: #DE8F05;
   --mygreen: #029E73;
   --myorange: #D55E00;
+  --mylightblue: #56B4E9;
 }
 
 /* NAVBAR */
@@ -66,8 +67,12 @@ pre code.hljs.plaintext {
 
 .publi {
   width: 100%;
-  overflow: hidden;
-  display: table;
+  border: 5px;
+  border-radius: 5px;
+  padding: 5px;
+  border-style: solid;
+  border-color: var(--mygreen);
+  margin-top: 10px;
 }
 
 .publi-header {
@@ -85,14 +90,14 @@ pre code.hljs.plaintext {
 }
 
 .publi-img {
-  width: 300px;
+  width: 400px;
 }
 
 .publi-abstract {
   display: table-cell;
 }
 
-a:link {
+a {
   color: var(--myblue);
 }
 

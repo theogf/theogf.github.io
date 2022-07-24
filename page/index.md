@@ -12,7 +12,7 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 \begin{section}{title="News"}
 
 - I finally defended my thesis on the 07th of July! I will upload the final version of the thesis soon 
-- I joined the [PlantingSpace](planting.space) team in April as Julia software developer and Bayesian researcher!
+- I joined the [PlantingSpace](https://planting.space) team in April as Julia software developer and Bayesian researcher!
 - A new paper got accepted at the [Entropy journal](https://www.mdpi.com/journal/entropy)! Check out ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990) with [Valerio Perrone](https://sites.google.com/view/valerioperrone/) and Manfred Opper.
 - I gave a short poster presentation on my work on [Turkie.jl](https://github.com/theogf/Turkie.jl) for [JuliaCon 2021](https://juliacon.org/2021/), you can find the [video here](https://www.youtube.com/watch?v=Tu9GRus7-FM).
 - I gave a talk at the Cambridge Machine Learning Reading Group and it's been recorded, check it out on here on [Youtube](https://www.youtube.com/watch?v=PtQGSFyzi6A)
@@ -31,13 +31,11 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 \begin{section}{title="Publications"}
 
 \publication{Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation}{https://www.mdpi.com/1099-4300/23/8/990}{Entropy Journal 21'}{https://www.mdpi.com/journal/entropy}{<b>T. Galy-Fajou</b>, V. Perrone, M. Opper}{"assets/frontpage.png"}{Small abstract about the paper}
-
-- Entropy Journal 21' ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990), **T. Galy-Fajou**, V. Perrone, M. Opper
-- ArXiv 21' ["Adaptive Inducing Points Selection For Gaussian Processes"](https://arxiv.org/abs/2107.10066), **T. Galy-Fajou**, M. Opper
-- AISTATS 20' ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451), **T. Galy-Fajou**, F. Wenzel, M. Opper
-- UAI 19' ["Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"](https://arxiv.org/abs/1905.09670), **T. Galy-Fajou**, F. Wenzel, C. Donner, M. Opper
-- AAAI 19' ["Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation"](https://arxiv.org/abs/1802.06383), F. Wenzel*, **T. Galy-Fajou***, C. Donner, M. Kloft, M. Opper
-- ECML 17' ["Bayesian Nonlinear Support Vector Machines for Big Data"](http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf), F. Wenzel, **T. Galy-Fajou**, M. Deutsch,  M. Kloft
+\publication{Adaptive Inducing Points Selection For Gaussian Processes}{https://arxiv.org/abs/2107.10066}{Workshop Continual Learning ICML 21'}{}{<b>T. Galy-Fajou</b>, M. Opper}{}{}
+\publication{Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models}{https://arxiv.org/abs/2002.11451}{AISTATS 20'}{}{<b>T. Galy-Fajou</b>, F. Wenzel, M. Opper}{}{}
+\publication{Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation}{https://arxiv.org/abs/1905.09670}{UAI 19'}{}{<b>T. Galy-Fajou</b>, F. Wenzel, C. Donner, M. Opper}{}{}
+\publication{Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation}{https://arxiv.org/abs/1802.06383}{AAAI 19'}{}{F. Wenzel* <b>T. Galy-Fajou</b>*, C. Donner, M. Kloft, M. Opper}{}{}
+\publication{Bayesian Nonlinear Support Vector Machines for Big Data}{http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf}{ECML 17'}{}{F. Wenzel, <b>T. Galy-Fajou</b>, M. Deutsch,  M. Kloft}{}{}
 
 
 \end{section}
