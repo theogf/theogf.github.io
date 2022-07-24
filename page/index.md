@@ -30,6 +30,8 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 
 \begin{section}{title="Publications"}
 
+\publication{Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation}{https://www.mdpi.com/1099-4300/23/8/990}{Entropy Journal 21'}{https://www.mdpi.com/journal/entropy}{<b>T. Galy-Fajou</b>, V. Perrone, M. Opper}{"assets/frontpage.png"}{Small abstract about the paper}
+
 - Entropy Journal 21' ["Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation"](https://www.mdpi.com/1099-4300/23/8/990), **T. Galy-Fajou**, V. Perrone, M. Opper
 - ArXiv 21' ["Adaptive Inducing Points Selection For Gaussian Processes"](https://arxiv.org/abs/2107.10066), **T. Galy-Fajou**, M. Opper
 - AISTATS 20' ["Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models"](https://arxiv.org/abs/2002.11451), **T. Galy-Fajou**, F. Wenzel, M. Opper

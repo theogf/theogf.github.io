@@ -3,6 +3,13 @@ header { margin: 0; padding: 0;}
 section { padding: 75px 0; }
 .jumbotron { margin-bottom: 0;}
 
+:root {
+  --myblue: #0173B2;
+  --myyellow: #DE8F05;
+  --mygreen: #029E73;
+  --myorange: #D55E00;
+}
+
 /* NAVBAR */
 
 #navbar-toggler-cbox:checked ~ .collapse { display:block; }
@@ -56,3 +63,39 @@ pre code.hljs.plaintext {
 }
 
 /* ADD ANY SPECIFIC TWEAKS YOU MIGHT WANT HERE */
+
+.publi {
+  width: 100%;
+  overflow: hidden;
+  display: table;
+}
+
+.publi-header {
+  width: 100%;
+}
+
+.public-content {
+  display: table;
+}
+
+.publi-thumbnail {
+  max-width: 50%;
+  height: auto;
+  display: table-cell;
+}
+
+.publi-img {
+  width: 300px;
+}
+
+.publi-abstract {
+  display: table-cell;
+}
+
+a:link {
+  color: var(--myblue);
+}
+
+a:hover {
+  color: var(--mygreen);
+}

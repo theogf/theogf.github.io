@@ -154,3 +154,24 @@ commands that are defined and used in PkgPage.jl
 \newenvironment{center}{\html{<div style="text-align:center;">}}{\html{</div>}}
 
 \newenvironment{columns}{\html{<div class="container"><div class="row">}}{\html{</div></div>}}
+
+\newcommand{\publication}[7]{
+  \html{<div class="publi">
+  <div class="publi-header">
+    <h4><a href=#2>#1</a></h4>
+    <a href=#4><b>#3</b></a>,
+    #5
+    </div>
+  <div class="publi-content">
+  <div style="display: table-row">
+    <div class="publi-thumbnail">
+    <img style="publi-img" src=#6> 
+    </div>
+    <div class="publi-abstract">
+    #7
+    </div>
+    </div>
+    </div>
+    </div>}
+
+}
