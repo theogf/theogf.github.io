@@ -30,18 +30,17 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 
 \begin{section}{title="Publications"}
 
-\publication{Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation}{https://www.mdpi.com/1099-4300/23/8/990}{Entropy Journal 21'}{https://www.mdpi.com/journal/entropy}{<b>T. Galy-Fajou</b>, V. Perrone, M. Opper}{"assets/front_gpf.png"}{Small abstract about the paper}
+\publication{Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation}{https://www.mdpi.com/1099-4300/23/8/990}{Entropy Journal 21'}{https://www.mdpi.com/journal/entropy}{<b>T. Galy-Fajou</b>, V. Perrone, M. Opper}{"assets/front_gpf.png"}{Small abstract about the paper}{https://github.com/theogf/ParticleFlow_Exp}{}
 
-\publication{Adaptive Inducing Points Selection For Gaussian Processes}{https://arxiv.org/abs/2107.10066}{Continual Learning Workshop ICML 20'}{https://sites.google.com/view/cl-icml/}{<b>T. Galy-Fajou</b>, M. Opper}{"assets/front_online.png"}{}
+\publication{Adaptive Inducing Points Selection For Gaussian Processes}{https://arxiv.org/abs/2107.10066}{Continual Learning Workshop ICML 20'}{https://sites.google.com/view/cl-icml/}{<b>T. Galy-Fajou</b>, M. Opper}{"assets/front_online.png"}{}{https://github.com/theogf/Online-GP}{https://www.youtube.com/watch?v=aR_viPWNv1U}
 
-\publication{Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models}{https://arxiv.org/abs/2002.11451}{AISTATS 20'}{https://aistats.org/aistats2020/}{<b>T. Galy-Fajou</b>, F. Wenzel, M. Opper}{"assets/front_augmentation.png"}{}
+\publication{Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models}{https://arxiv.org/abs/2002.11451}{AISTATS 20'}{https://aistats.org/aistats2020/}{<b>T. Galy-Fajou</b>, F. Wenzel, M. Opper}{"assets/front_augmentation.png"}{}{https://github.com/theogf/AutoConjGP_Exp}{}
 
-\publication{Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation}{https://arxiv.org/abs/1905.09670}{UAI 19'}{}{<b>T. Galy-Fajou</b>, F. Wenzel, C. Donner, M. Opper}{}{}
+\publication{Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation}{https://arxiv.org/abs/1905.09670}{UAI 19'}{}{<b>T. Galy-Fajou</b>, F. Wenzel, C. Donner, M. Opper}{"assets/front_multiclass.png"}{}{https://github.com/theogf/MultiClassGPC}{https://www.youtube.com/watch?v=D1JPjZ8Qj_c&t=1s}
 
-\publication{Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation}{https://arxiv.org/abs/1802.06383}{AAAI 19'}{}{F. Wenzel* <b>T. Galy-Fajou</b>*, C. Donner, M. Kloft, M. Opper}{}{}
+\publication{Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation}{https://arxiv.org/abs/1802.06383}{AAAI 19'}{}{F. Wenzel* <b>T. Galy-Fajou</b>*, C. Donner, M. Kloft, M. Opper}{}{}{}{}
 
-\publication{Bayesian Nonlinear Support Vector Machines for Big Data}{http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf}{ECML 17'}{}{F. Wenzel, <b>T. Galy-Fajou</b>, M. Deutsch,  M. Kloft}{}{}
-
+\publication{Bayesian Nonlinear Support Vector Machines for Big Data}{http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf}{ECML 17'}{}{F. Wenzel, <b>T. Galy-Fajou</b>, M. Deutsch,  M. Kloft}{}{}{}{}
 
 \end{section}
 

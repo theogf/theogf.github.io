@@ -90,7 +90,9 @@ pre code.hljs.plaintext {
 }
 
 .publi-img {
-  width: 400px;
+  width: auto;
+  max-width: 400px;
+  height: auto;
   max-height: 200px;
   margin: 10px;
 }

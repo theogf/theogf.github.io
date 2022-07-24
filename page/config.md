@@ -158,7 +158,7 @@ commands that are defined and used in PkgPage.jl
 @def publi_counter = 1
 
 
-\newcommand{\publication}[7]{~~~
+\newcommand{\publication}[9]{~~~
   <div class="publi" {{ publi publi_counter}}>
   <div class="publi-header">
     <h5><b><a href=#2>#1</a></b></h5>
@@ -171,10 +171,11 @@ commands that are defined and used in PkgPage.jl
     <img class="publi-img" src=#6> 
     </div>
     <div class="publi-abstract"> 
-    #7
+    #7 
     </div>
     </div>
     </div>
+    {{ fill_code #2 #8 #9}}
     </div>
 ~~~
 }
