@@ -5,7 +5,7 @@
   authors: <b>T. Galy-Fajou</b>, V. Perrone, M. Opper
   link-figure: assets/front_gpf.png
   code-link: https://github.com/theogf/ParticleFlow_Exp
-  abstract: ""
+  abstract: "We solve the Gaussian Variational Approximation cubic complexity by defining a deterministic flow. It allows to use low-rank approximation (without diagonal) and obtain exact guarantees. Additionally, we show that using particles helps getting a more stable convergence and a higher accuracy."
 - title: Adaptive Inducing Points Selection For Gaussian Processes
   paper-link: https://arxiv.org/abs/2107.10066
   journal: Continual Learning Workshop ICML 20'
