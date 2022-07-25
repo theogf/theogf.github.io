@@ -14,7 +14,7 @@
   link-figure: assets/front_online.png
   code-link: https://github.com/theogf/Online-GP
   video-link: https://www.youtube.com/watch?v=aR_viPWNv1U
-  abstract: ""
+  abstract: "We propose a new way to select inducing points locations both in an online and offline setting. The algorithm is fully data-centric but takes fully into account the sparse Gaussian process framework."
 - title: Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models
   paper-link: https://arxiv.org/abs/2002.11451
   journal: AISTATS 20'
@@ -22,7 +22,7 @@
   authors: <b>T. Galy-Fajou</b>, F. Wenzel, M. Opper
   link-figure: assets/front_augmentation.png
   code-link: https://github.com/theogf/AutoConjGP_Exp
-  abstract: ""
+  abstract: "We generalize the theory around latent variable augmentation for Gaussian models. From the Schoenberg theorem, we identify a new class of functions that can be augmented and provide methods to perform inference out of the box."
 - title: "Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"
   paper-link: https://arxiv.org/abs/1905.09670
   journal: UAI 19'
