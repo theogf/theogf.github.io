@@ -69,7 +69,7 @@ pre code.hljs.plaintext {
   width: 100%;
   border: 3px;
   border-radius: 5px;
-  padding: 5px;
+  padding: 10px;
   border-style: solid;
   border-color: var(--mygreen);
   margin-top: 10px;
@@ -114,7 +114,4 @@ a:hover {
   height: 100px;
   display: inline-block;
   border-radius: 50%;
-  box-shadow: 5px 5px 10px 20px white inset;
-  background-image: url("../assets/dithered_profile.png");
-  background-position: center;
 }

@@ -46,16 +46,16 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 
 \begin{section}{title="Education"}
 
-- 2022 : **PhD in Machine Learning** under the supervision of [Professor _Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/pr_dr_manfred_opper/forschungsgebiete/parameter/en/) (pdf to be uploaded soon).
-- 2015 : **MsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/) master thesis ([pdf here](https://cds.cern.ch/record/2130608/files/CERN-THESIS-2015-288.pdf)) at [_University of Edinburgh_](https://www.ed.ac.uk/)/[_CERN_](https://home.cern/) with Minor in Computational Science and Engineering.
-- 2012 : **BsC of Physics** [_EPFL (Ecole Polytechnique Federale de Lausanne)_](https://epfl.ch/)
-- 2009 : **Baccalauréat**
+- 2022 : **PhD in Machine Learning** under the supervision of [Professor _Manfred Opper_](https://www.ki.tu-berlin.de/menue/team/pr_dr_manfred_opper/forschungsgebiete/parameter/en/) (pdf to be uploaded soon) [_Technische Universität Berlin_](https://www.tu.berlin/), Berlin, Germany.
+- 2015 : **MsC of Physics** [_EPFL (École Polytechnique Fédérale de Lausanne)_](https://epfl.ch/) master thesis ([pdf here](https://cds.cern.ch/record/2130608/files/CERN-THESIS-2015-288.pdf)) at [_University of Edinburgh_](https://www.ed.ac.uk/)/[_CERN_](https://home.cern/) with Minor in Computational Science and Engineering.
+- 2012 : **BsC of Physics** [_EPFL (École Polytechnique Fédérale de Lausanne)_](https://epfl.ch/), Lausanne, Switzerland
+- 2009 : **Baccalauréat** [_Lycée Vincent Auriol_](https://vincent-auriol.mon-ent-occitanie.fr/), Revel, France
 \end{section}
 
 \begin{section}{title="Work experience"}
 
 - 2017-2022: Research Assistant @ [Technische Universität Berlin](https://tu.berlin)
-- 2016-2017 : Research intern @ [Humboldt University of Berlin](https://www.hu-berlin.de/en)
+- 2016-2017 : Research intern @ [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en)
 - 2015-2016 : C++ Software developper in MRI development @ [Siemens Healthcare in Lausanne](https://www.siemens-healthineers.com/de-ch)
 - 2012-2015 : Teaching assistant for Particle Physics, General Physics @ [University of Edinburgh](https://www.ed.ac.uk/) & [EPFL](https://www.epfl.ch/en/)
 - 2015 : Internship in Particle Physics @ [Lancaster University](https://www.lancaster.ac.uk/)
