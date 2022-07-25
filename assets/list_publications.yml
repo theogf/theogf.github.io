@@ -1,0 +1,45 @@
+- title: Flexible and Efficient Inference with Particles for the Variational Gaussian Approximation
+  paper-link: https://www.mdpi.com/1099-4300/23/8/990
+  journal: Entropy Journal 21'
+  journal-link: https://www.mdpi.com/journal/entropy
+  authors: <b>T. Galy-Fajou</b>, V. Perrone, M. Opper
+  link-figure: assets/front_gpf.png
+  code-link: https://github.com/theogf/ParticleFlow_Exp
+  abstract: ""
+- title: Adaptive Inducing Points Selection For Gaussian Processes
+  paper-link: https://arxiv.org/abs/2107.10066
+  journal: Continual Learning Workshop ICML 20'
+  journal-link: https://sites.google.com/view/cl-icml/
+  authors: <b>T. Galy-Fajou</b>, M. Opper
+  link-figure: assets/front_online.png
+  code-link: https://github.com/theogf/Online-GP
+  video-link: https://www.youtube.com/watch?v=aR_viPWNv1U
+  abstract: ""
+- title: Automated Augmented Conjugate Inference for Non-conjugate Gaussian Process Models
+  paper-link: https://arxiv.org/abs/2002.11451
+  journal: AISTATS 20'
+  journal-link: https://aistats.org/aistats2020/
+  authors: <b>T. Galy-Fajou</b>, F. Wenzel, M. Opper
+  link-figure: assets/front_augmentation.png
+  code-link: https://github.com/theogf/AutoConjGP_Exp
+  abstract: ""
+- title: "Multi-Class Gaussian Process Classification Made Conjugate: Efficient Inference via Data Augmentation"
+  paper-link: https://arxiv.org/abs/1905.09670
+  journal: UAI 19'
+  journal-link: http://auai.org/uai2019/
+  authors: <b>T. Galy-Fajou</b>, F. Wenzel, C. Donner, M. Opper
+  link-figure: assets/front_multiclass.png
+  code-link: https://github.com/theogf/MultiClassGPC
+  video-link: https://www.youtube.com/watch?v=D1JPjZ8Qj_c&t=1s
+  abstract: ""
+- title: Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation
+  paper-link: https://arxiv.org/abs/1802.06383
+  journal: AAAI 19'
+  journal-link: https://aaai.org/Conferences/AAAI-19/
+  authors: F. Wenzel* <b>T. Galy-Fajou</b>*, C. Donner, M. Kloft, M. Opper
+  abstract: ""
+- title: Bayesian Nonlinear Support Vector Machines for Big Data
+  paper-link: http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf
+  journal: ECML 17'
+  authors: F. Wenzel, <b>T. Galy-Fajou</b>, M. Deutsch,  M. Kloft
+  abstract: ""
