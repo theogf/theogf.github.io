@@ -1,6 +1,8 @@
 name: Broken link check
-on: push
-
+on: 
+  push:
+    branches:
+     - gh-pages
 jobs:
   broken_link_checker_job:
     runs-on: ubuntu-latest
