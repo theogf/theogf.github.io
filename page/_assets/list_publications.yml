@@ -31,15 +31,17 @@
   link-figure: assets/front_multiclass.png
   code-link: https://github.com/theogf/MultiClassGPC
   video-link: https://www.youtube.com/watch?v=D1JPjZ8Qj_c&t=1s
-  abstract: ""
+  abstract: "Using new augmentation methods, we derive an augmented likelihood for the logistic-softmax link. It allows us to infer categorical data in only a few iterations and obtain uncertainty estimates for each of the class."
 - title: Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation
   paper-link: https://arxiv.org/abs/1802.06383
   journal: AAAI 19'
   journal-link: https://aaai.org/Conferences/AAAI-19/
   authors: F. Wenzel* <b>T. Galy-Fajou</b>*, C. Donner, M. Kloft, M. Opper
-  abstract: ""
+  abstract: "By applying the Pòlya-Gamma augmentation to Gaussian processes and sparse Gaussian Processes, we scale inference to billion of inducing points for the binary classification problem."
 - title: Bayesian Nonlinear Support Vector Machines for Big Data
   paper-link: http://ecmlpkdd2017.ijs.si/papers/paperID502.pdf
   journal: ECML 17'
+  journal-link: http://ecmlpkdd2017.ijs.si/
   authors: F. Wenzel, <b>T. Galy-Fajou</b>, M. Deutsch,  M. Kloft
-  abstract: ""
+  code-link: https://github.com/theogf/BayesianSVM
+  abstract: "The Bayesian SVM is a probabilistic interpretation of the hinge loss. By applying an augmentation on it we are able to scale Gaussian processes using this likelihood to large datasets and converge extremely quickly."
