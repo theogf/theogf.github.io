@@ -28,7 +28,7 @@ He is currently working as a freelancer, in particular with [PlantingSpace](http
 
 \begin{section}{title="Publications"}
 
-{{ publications }}
+{{publications}}
 
 \end{section}
 

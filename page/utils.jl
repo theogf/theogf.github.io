@@ -37,7 +37,9 @@ function hfun_publications()
         new_pub *= """
             <div class="publi-img-text">
                 <div class="publi-thumbnail">
-                    <img class="publi-img" src=$(get(pub, "link-figure", ""))> 
+                    <a href="$(get(pub, "link-figure", ""))" data-lightbox="$(pub["title"])" data-title="$(pub["title"])">
+                        <img class="publi-img" src=$(get(pub, "link-figure", ""))> 
+                    </a>
                 </div>
                 <div class="publi-abstract"> 
                 $(pub["abstract"]) 
