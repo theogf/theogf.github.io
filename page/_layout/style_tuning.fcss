@@ -10,23 +10,6 @@ a:hover {
   color: {{link_hover_color}};
 }
 
-@media (prefers-color-scheme: light) {
-  section { padding: 75px 0; }
-  .section-bg-color {
-    background-color: {{even_section_bg_color}};
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  section { 
-    padding: 75px 0; 
-    background-color: {{odd_section_dark_bg}};
-    }
-  .section-bg-color {
-    background-color: {{even_section_dark_bg_color}};
-  }
-}
-
 footer a {
   color: {{footer_link_color}};
 }

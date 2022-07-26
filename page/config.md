@@ -115,9 +115,7 @@ NOTE:
 @def header_color               = "#3f6388"
 @def link_color                 = "#2669DD"
 @def link_hover_color           = "teal"
-@def odd_section_dark_bg        = "#6d7277"
-@def even_section_bg_color      = "#f6f8fa"
-@def even_section_dark_bg_color = "#9b9b9b"
+@def even_section_dark_bg_color = "#4C3575"
 @def footer_link_color          = "cornflowerblue"
 
 <!-- CODE LAYOUT

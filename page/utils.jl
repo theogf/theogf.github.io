@@ -35,7 +35,7 @@ function hfun_publications()
         new_pub *= "&nbsp;"
         new_pub *= pub["authors"]
         new_pub *= """
-            <div style="display: table-row">
+            <div class="publi-img-text">
                 <div class="publi-thumbnail">
                     <img class="publi-img" src=$(get(pub, "link-figure", ""))> 
                 </div>
