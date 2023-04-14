@@ -3,7 +3,13 @@
 Théo Galy-Fajou is a doctor in Machine Learning specialized in [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference) methods.
 He is particularly interested in approximate Bayesian inference methods like sampling, applications to Gaussian processes and online learning.
 Throughout his Ph.D., Théo developed numerous [open source projects](#open_source_projects) in [Julia](https://julialang.org) and dived deep into software development.
-He is currently working as a freelancer, in particular with [PlantingSpace](https://planting.space).
+He is currently working for [PlantingSpace](https://planting.space).
+
+You can find me on [Github](https://github.com/theogf), 
+~~~
+<a rel="me" href="https://bayes.club/@theogf">Mastodon</a>
+~~~
+, [ResearchGate](https://www.researchgate.net/profile/Theo-Galy-Fajou-2) and [Twitter](https://twitter.com/theo_gf).
 
 \end{section}
 
