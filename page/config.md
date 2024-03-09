@@ -21,7 +21,7 @@ The latter allows you to plug in values that you would have defined here.
            @def title       = "Dr. Théo Galy-Fajou"
            @def prepath     = ""
            @def description = """
-                   Freelancer in Bayes workflow and Julia software development
+                   Julia software developer and Bayesian researcher at PlantingSpace
                    """
            @def authors     = "Théo Galy-Fajou"
 
